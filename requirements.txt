@@ -1,0 +1,7 @@
+Flask
+numpy
+pillow
+CORS
+keras
+scikit-image
+tensorflow
