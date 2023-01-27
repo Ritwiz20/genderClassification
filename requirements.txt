@@ -5,3 +5,4 @@ CORS
 keras
 scikit-image
 tensorflow
+flask_cors
